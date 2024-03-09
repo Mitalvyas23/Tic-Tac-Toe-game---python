@@ -1,3 +1,7 @@
+'''TIC - TAC - TOE GAME using python
+    simple python program
+    PROGRAMMER = Mital vyas'''
+
 def printboard():
     print('  ',value[0],'  | ',value[1],' | ',value[2],'  ')
     print('-------|-----|-------')
